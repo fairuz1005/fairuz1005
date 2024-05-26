@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm delighted to have you here. Below you'll find 
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
 - 🤔 I’m looking for help with open-source contributions and mentorship opportunities.
 - 💬 Ask me about anything related to AI, machine learning, and software development.
-- 📫 How to reach me: [Email](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email](mailto:fairuzsatriam@gmail.com) or [LinkedIn](https://www.linkedin.com/in/fairuz-satria-mahardika)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and turning ideas into reality through code.
 
