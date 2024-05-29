@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm delighted to have you here. Below you'll find 
 **fairuz1005/fairuz1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on various exciting projects in AI and software development.
-- 🌱 I’m constantly learning and exploring new technologies, especially in the field of data science and AI.
+- 🔭 I’m currently working on various exciting projects in AI and engineering.
+- 🌱 I’m constantly learning and exploring new technologies, especially in the field of software engineering.
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
 - 🤔 I’m looking for help with open-source contributions and mentorship opportunities.
 - 💬 Ask me about anything related to AI, machine learning, and software development.
